@@ -105,7 +105,7 @@ TensorFlow • OpenCV
 
 ---
 
-# 📊 GitHub Analytics
+<!--# 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nush1729&show_icons=true&theme=tokyonight" />
@@ -141,12 +141,12 @@ TensorFlow • OpenCV
 
 <img src="https://komarev.com/ghpvc/?username=nush1729&label=Profile%20views&color=blueviolet&style=flat" />
 
----
+--->
 
 # 🤝 Connect With Me
 
 📧 [anushkanair1729@gmail.com](mailto:anushkanair1729@gmail.com)
-💼 LinkedIn: (add your link)
+💼 LinkedIn: (https://www.linkedin.com/in/anushkanair1729/)
 
 ---
 
