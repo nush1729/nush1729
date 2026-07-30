@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkanair1729/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nush1729/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anushkanair1729@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://nush1729.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://nush1729.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=nush1729&style=flat-square&color=0ea5e9)](https://github.com/nush1729)
 
 </div>
